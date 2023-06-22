@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Encriptador de Textos </h2>
+<h2>Encriptador de Textos &#128274; </h2>
 </div>
 <hr>
 <h3>Desafio promovido pelo curso Oracle Next Education, com o objetivo de criar uma página para criptografar e descriptografar uma mensagem. </h3>
@@ -10,3 +10,7 @@
 &#10003; CSS
 
 <hr>
+<div align="center">         
+<img src="https://github.com/NathaliaNogueira/Encriptador-de-Textos/assets/94802675/7ac2fdbb-b1b8-4268-8ef6-48207dbbad97" width = "900px" />
+
+</div>
